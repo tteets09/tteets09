@@ -20,6 +20,8 @@ The projects below are projects that were done while taking the [The Complete 20
 - React.js
 - and so much more!
 
+[AngelaYu-CssMySite](https://tteets09.github.io/AngelaYu-CssMySite/ "AngelaYu-CssMySite")
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=AngelaYu-CssMySite&theme=nord)](https://github.com/tteets09/AngelaYu-CssMySite)
 
 &copy; 2021-2022 Tony Teets
