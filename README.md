@@ -3,7 +3,7 @@
 ##Personal Portfolio
 I have a personal portfolio site in progress. Keep in mind this is a work in progress at this point in time but I am working on it. I am working on other projects as well. Thank you.
 
-[Personal Portfolio Site](tteets09.github.io "Personal Portfolio Site")
+[Personal Portfolio Site](tteets09.github.io/ "Personal Portfolio Site")
 
 ##### Repository for webpage
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=tteets09.github.io&theme=nord)](https://github.com/tteets09/tteets09.github.io)
