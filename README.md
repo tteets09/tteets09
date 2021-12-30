@@ -17,7 +17,7 @@ The projects below are projects that were done while taking the [The Complete 20
 | ------------ | ------------ |
 |  [AngelaYu-CssMySite](https://tteets09.github.io/AngelaYu-CssMySite/ "AngelaYu-CssMySite") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=AngelaYu-CssMySite&theme=nord)](https://github.com/tteets09/AngelaYu-CssMySite)|
 |  [Tindog](https://tteets09.github.io/tindog/ "Tindog") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=tindog&theme=nord)](https://github.com/tteets09/tindog)|
-|  [Newsletter App](https://github.com/tteets09/newsletter-app/ "newsletter-app") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=newsletter-app&theme=nord)](https://github.com/tteets09/newsletter-app)|
+|  [Newsletter App](https://coderamux-news.herokuapp.com/ "newsletter-app") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=newsletter-app&theme=nord)](https://github.com/tteets09/newsletter-app)|
 
 
 &copy; 2021-2022 Tony Teets
