@@ -19,9 +19,10 @@ The projects below are projects that were done while taking the [The Complete 20
 |  [Newsletter App](https://coderamux-news.herokuapp.com/ "newsletter-app") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=newsletter-app&theme=nord)](https://github.com/tteets09/newsletter-app)|
 
 ## Java Development
-The projects below are java projects I have made on my own during my time learning Java in college. There is more to come as I am still not done taking classes. Sp far whar I know is:
+The projects below are Java projects I have made on my own during my time learning Java in college. There is more to come as I am still not done taking classes and leanring. So far what I know is: 
 
-- Basic Java programming skills
+- Foundation Java Skills
+- Basic Java IO Streams
 
 Want to / Learning Soon!
 - Data Structues
