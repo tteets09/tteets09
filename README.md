@@ -12,7 +12,7 @@ The projects below are projects that were done while taking the [The Complete 20
 - MongoDB
 
 
-|   Title/Link |  Repository |
+|   Title/Link |  Repository  |
 | ------------ | ------------ |
 |  [AngelaYu-CssMySite](https://tteets09.github.io/AngelaYu-CssMySite/ "AngelaYu-CssMySite") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=AngelaYu-CssMySite&theme=nord)](https://github.com/tteets09/AngelaYu-CssMySite)|
 |  [Tindog](https://tteets09.github.io/tindog/ "Tindog") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=tindog&theme=nord)](https://github.com/tteets09/tindog)|
@@ -35,6 +35,6 @@ One thing to know is you can never stop learning!
 
 |  Title/Link |  Repository |
 | ------------ | ------------ |
-
+| [BattleSimulator](https://github.com/tteets09/BattleSimulator/ "BattleSimulator") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=BattleSimulator&theme=nord)](https://github.com/tteets09/BattleSimulator/)
 
 &copy; 2021-2022 Tony Teets
