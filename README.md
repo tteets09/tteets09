@@ -9,8 +9,6 @@ The projects below are projects that were done while taking the [The Complete 20
 - jQuery
 - Node.js
 - MongoDB
-- React.js
-- and so much more!
 
 
 |  Title/Link |  Repository |
