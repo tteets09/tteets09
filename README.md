@@ -35,6 +35,7 @@ One thing to know is you can never stop learning!
 
 |  Title/Link |  Repository |
 | ------------ | ------------ |
-| [BattleSimulator](https://github.com/tteets09/BattleSimulator/ "BattleSimulator") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=BattleSimulator&theme=nord)](https://github.com/tteets09/BattleSimulator/)
+| [BattleSimulator](https://github.com/tteets09/BattleSimulator/ "BattleSimulator") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=BattleSimulator&theme=nord)](https://github.com/tteets09/BattleSimulator/) |
+| [TypeWriter](https://github.com/tteets09/TypeWriterAPI/ "TypeWriterAPI") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=TypeWriterAPI&theme=nord)](https://github.com/tteets09/TypeWriterAPI/) |
 
 &copy; 2021-2022 Tony Teets
