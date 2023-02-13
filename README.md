@@ -23,13 +23,12 @@ The projects below are Java projects I have made on my own during my time learni
 
 - Foundation Java Skills
 - Basic Java IO Streams
+- Data Structues
 
 Want to / Learning Soon!
-- Data Structues
 - Java Spring
 - Java Spring Boot
 - Hibernate
-- And so much more
 
 One thing to know is you can never stop learning!
 
