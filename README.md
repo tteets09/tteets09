@@ -25,8 +25,6 @@ The projects below are Java projects I have made on my own during my time learni
 - Basic Java IO Streams
 - Data Structues
 
-One thing to know is you can never stop learning!
-
 |  Title/Link |  Repository |
 | ------------ | ------------ |
 | [BattleSimulator](https://github.com/tteets09/BattleSimulator/ "BattleSimulator") | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tteets09&repo=BattleSimulator&theme=nord)](https://github.com/tteets09/BattleSimulator/) |
