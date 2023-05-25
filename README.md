@@ -25,11 +25,6 @@ The projects below are Java projects I have made on my own during my time learni
 - Basic Java IO Streams
 - Data Structues
 
-Want to / Learning Soon!
-- Java Spring
-- Java Spring Boot
-- Hibernate
-
 One thing to know is you can never stop learning!
 
 |  Title/Link |  Repository |
