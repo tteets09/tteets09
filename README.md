@@ -17,6 +17,9 @@
 
 | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)  | 
 |------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| React                                                                        | Tailwind                                                                         | 
+| React                                                                        | Tailwind                                                                         |
+
+## Contact
+<a href="https://www.linkedin.com/in/tony-m-teets/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"></a>
 
 &copy; 2021-2024 Tony Teets
