@@ -6,9 +6,9 @@
 # Languages and Libraries
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,css,discordjs,html,java,js,mongodb,nodejs,npm,react,tailwind&perline=5)](https://skillicons.dev)
 
-| [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) |   |   |   |   |   |   |   |   |   |
-|--------------------------------------------------------------------------------|---|---|---|---|---|---|---|---|---|
-| Eclipse                                                                        |   |   |   |   |   |   |   |   |   |
+| [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  |   |   |   |   |   |   |   |   |
+|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---|---|---|---|---|---|---|---|
+| Eclipse                                                                        | Figma                                                                         |   |   |   |   |   |   |   |   |
 
 
 
