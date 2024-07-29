@@ -1,6 +1,6 @@
 # Welcome, I am Tony Teets
 
-Hello! I'm currently pursuing my degree at the University of New Orleans (UNO), where I am excited to 
+🌟 Hello! I'm currently pursuing my degree at the University of New Orleans (UNO), where I am excited to 
 graduate in May 2025 with a strong foundation in computer science. My academic journey has been both 
 challenging and rewarding, particularly as I deepen my skills in programming. My passion lies in merging 
 creativity with technology to craft solutions that not only meet but exceed expectations.
@@ -9,7 +9,7 @@ creativity with technology to craft solutions that not only meet but exceed expe
 Intern at Waterborne Commerce Statistics Center: Here, I am applying my technical skills in a real-world 
 setting, contributing to impactful projects and gaining valuable industry experience.
 
-I'm eager to apply my skill set in new and exciting ways. Let's connect on LinkedIn to explore opportunities, 
+🚀 I'm eager to apply my skill set in new and exciting ways. Let's connect on LinkedIn to explore opportunities, 
 collaborate on tech innovations, or simply share insights about the latest trends in the computer science community!
 
 ## Skills
